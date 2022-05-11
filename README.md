@@ -1,5 +1,3 @@
-**本 CodeBase 是新的 CodeBase，之前的 CodeBase 将会在这个 CodeBase 维护完成之后删除。**
-
 蒟蒻 Plozia 的代码仓库qwq
 
 这里存放的是 Plozia 的代码，部分代码会被我的博客园博客引用。
