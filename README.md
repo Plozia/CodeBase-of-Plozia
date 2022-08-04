@@ -6,7 +6,7 @@
 
 由于作者是参加信息竞赛的高中生，这里并没有什么别的代码，只是一些题目的 Solution。
 
-我的 Luogu 账号：[Plozia](https://www.luogu.com.cn/user/134000)
+我的洛谷账号：[Plozia](https://www.luogu.com.cn/user/134000)
 
 我的博客园账号：[Plozia](https://www.cnblogs.com/Plozia/)
 
