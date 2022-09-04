@@ -42,13 +42,13 @@ void Build(int p, int l, int r)
 
 void Change(int p, int Num)
 {
+	if (tag(p) == 0) { tag(p) = Num; return ;}
 	if (l(p) == r(p))
 	{
 		if (Calc(tag(p), l(p)) < Calc(Num, l(p))) { tag(p) = Num; }
 		return ;
 	}
 	int mid = (l(p) + r(p)) >> 1;
-	if (tag(p) == 0) { tag(p) = Num; return ;}
 	double s1 = Calc(tag(p), mid), s2 = Calc(Num, mid);
 	if (k[tag(p)] < k[Num])
 	{
